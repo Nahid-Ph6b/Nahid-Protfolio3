@@ -1,0 +1,27 @@
+body{font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;}
+    h1{color: rgb(18, 18, 186);
+    font-size: 100px;}
+    .h-color{color: rgb(96, 217, 16);
+             font-size:90px ;}
+    .h-color2{color:crimson;
+              font-size: 75px;}
+
+    .half-width{width:50% ;
+    padding-left:2%;}
+
+    .half-width-img{width:73%;}
+    section{display: flex;}
+    .top-banner{background-image: url(images3/top-banner.png);
+    background-repeat: no-repeat;
+    margin:0 ;}
+
+    .link-b{text-decoration: none;
+    background-image:linear-gradient(rgb) ;
+    background-color: rgb(227, 205, 41);
+padding: 10px 40px;
+border-radius:5% ;
+font-weight: 700;
+color: rgb(170, 9, 47);}
